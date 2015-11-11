@@ -1,5 +1,3 @@
 <?php include("common/header.php");?>
-
-<a href="contactus.php">Contact US</a>
-
+THIS IS CONTACT US
 <?php include("common/footer.php");?>
